@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BohdanFomenchuk 3-d year student of NTUU Igor "Sikorsky Kyiv Polytechnic Institute"
+- 👋 Hi, I’m @BohdanFomenchuk 3-d year student of NTUU "Igor Sikorsky Kyiv Polytechnic Institute"
 - 👀 I’m interested in embedded c/c++ software development 
 - 🌱 I’m currently learning c lang. for embedded
 - 💞️ I’m looking to collaborate on ...
